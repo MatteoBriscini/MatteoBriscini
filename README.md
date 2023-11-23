@@ -20,14 +20,14 @@
   </a>
 </p>
 
-## Languages-Frameworks-Tools
+## ⚒️ Languages-Frameworks-Tools ⚒️
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,sketchup,idea" /> <br>
     <img src="https://skillicons.dev/icons?i=python,c,java,mysql,javascript,maven,aws" /><br>
 </div>
 
-## Top Open Source 
+## Top open source projects
 <div align="center">
 
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=MatteoBriscini&repo=Software-engineering-final-project&border_color=292D3E&bg_color=292D3E&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MatteoBriscini/Software-engineering-final-project)
@@ -38,7 +38,7 @@
 <hr/>
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatteoBriscini&theme=material_palenight)
+![](https://raw.githubusercontent.com/MatteoBriscini/MatteoBriscini/main/profile-summary-card-output/material_palenight/1-repos-per-language.svg)
 
 </div>
 
