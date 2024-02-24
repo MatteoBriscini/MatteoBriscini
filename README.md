@@ -28,13 +28,15 @@
 </div>
 
 ## Top open source projects
-<div align="center">
+<div align="center" style="display:flex; justify-content: space-around;">
 
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=MatteoBriscini&repo=data-strucutres-and-algorithms-final-project&border_color=292D3E&bg_color=292D3E&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MatteoBriscini/data-strucutres-and-algorithms-final-project)
 
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=MatteoBriscini&repo=Software-engineering-final-project&border_color=292D3E&bg_color=292D3E&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MatteoBriscini/Software-engineering-final-project)
 
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=MatteoBriscini&repo=WEB-TECHNOLOGIES-final-project&border_color=292D3E&bg_color=292D3E&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MatteoBriscini/WEB-TECHNOLOGIES-final-project)
+
+
 </div>
 
 
