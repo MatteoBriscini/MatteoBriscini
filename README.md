@@ -20,7 +20,7 @@
   </a>
   </a> 
   <a href="https://www.linkedin.com/in/matteo-briscini-ab2b99328/">
-    <img src="https://img.shields.io/badge/linkedin-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/linkedin-333333?style=for-the-badge&logo=linkedin&logoColor=blue" />
   </a>
 </p>
 
