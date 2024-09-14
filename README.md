@@ -1,7 +1,12 @@
 <!-- About Section -->
- # About me
+# About me
+👋 Hello, fellow coders! I'm Matteo, a passionate master's student in Computer Science and Engineering at Politecnico di Milano, as a full-stack developer, I enjoy coding and software development of new solutions. <br> <br>
+🚀I am always looking for exciting projects to challenge my skills. <br> <br>
 
-
+🌟 Interests and Hobbies:
+ * 🏃‍♂️‍➡️ As an agonist athlete, I learned to work under pressure and manage the stress related to a race or a competitive environment in general, using it as a resource to fulfill objectives
+ * 🏠🧑‍💻 During my free time, I develop my domotics, based on [Hassio](https://github.com/home-assistant/core) to automate repetitive home tasks and keep my problem-solving skills trained.
+ 
 <p align="center">
  <!--<a href="https://alsiam.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
