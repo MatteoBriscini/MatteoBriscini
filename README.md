@@ -18,6 +18,10 @@
   <a href="mailto:matteo.briscini@mail.polimi.it">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+  </a> 
+  <a href="https://www.linkedin.com/in/matteo-briscini-ab2b99328/">
+    <img src="https://img.shields.io/badge/linkedin-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
 </p>
 
 ## ⚒️ Languages-Frameworks-Tools ⚒️
