@@ -7,7 +7,7 @@
  * 🏃‍♂️‍➡️ As an agonist athlete, I learned to work under pressure and manage the stress related to a race or a competitive environment in general, using it as a resource to fulfill objectives
  * 🏠🧑‍💻 During my free time, I develop my domotics, based on [Hassio](https://github.com/home-assistant/core) to automate repetitive home tasks and keep my problem-solving skills trained.
  
-<p align="center">
+<p align="center" style="text-decoration: none;">
  <!--<a href="https://alsiam.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
