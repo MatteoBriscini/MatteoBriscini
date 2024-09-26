@@ -14,6 +14,9 @@
  <a href="https://twitter.com/alsiam_dev" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>-->
+ <a href="https://t.me/matteobriscini" target="_blank"style="text-decoration: none !important">
+  <img src="https://img.shields.io/badge/Telegram-0084C8?style=flate&logo=Telegram&logoColor=white" alt="alsiam" />
+ </a> 
  <a href="https://www.instagram.com/matteobriscini/" target="_blank"style="text-decoration: none !important">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=flate&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
