@@ -26,6 +26,14 @@ jobs:
       - name: Clone repo
         uses: actions/checkout@v3
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+
+      # Install system dependencies required by the canvas module
+      - name: Install dependencies for canvas
+        run: |
+          sudo apt-get update
+          sudo apt-get install libcairo2-dev libjpeg-dev libpango1.0-dev libgif-dev build-essential g++
+
+      
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
         id: snake-gif
