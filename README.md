@@ -32,8 +32,8 @@
 ## ⚒️ Languages-Frameworks-Tools ⚒️
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,sketchup,idea,unity" /> <br>
-    <img src="https://skillicons.dev/icons?i=python,c,cs,java,mysql,javascript,maven,aws" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,idea,unity,mavent,aws" /> <br>
+    <img src="https://skillicons.dev/icons?i=python,c,cs,java,mysql,javascrip,go,dart,flutter" /><br>
 </div>
 
 ## Top open source projects
